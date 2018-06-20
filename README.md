@@ -1,3 +1,3 @@
 # hello-world
-Practice repository 
+Practice repository
 print('hello there')
